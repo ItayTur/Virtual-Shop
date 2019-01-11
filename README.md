@@ -1,7 +1,7 @@
 
 # Virtual-Shop
 
-Sela study finale project for the mvc course. Virtual-Shop has alot of features here are some of them:
+Sela study finale project for the mvc course. Virtual-Shop has alot of features, here are some of them:
 The app has a customers and products managment system. It allwos users to sign-up
 and sign-in using username and password. Any signed in user can buy and upload products for sell in the site. 
 Not-registered users can only buy products.
