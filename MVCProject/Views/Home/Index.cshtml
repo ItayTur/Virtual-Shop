@@ -1,0 +1,63 @@
+﻿@model MVCProject.Models.LoginSignModel
+@{
+    ViewBag.Title = "Products";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                    Order by:
+                    <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a href="@Url.Action("Index","Home",new { order="name"})">Name</a></li>
+                    <li><a href="@Url.Action("Index","Home",new { order="date"})">Date</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+@foreach (var product in Model.Products)
+{
+    if (product.State == 1)
+    {
+        <div class="col-md-3">
+            <div class="panel panel-default text-center pic-panel">
+
+                <div class="panel-heading">
+                    <h2>@Html.ActionLink(product.Title, "Detail", "Product", new { Id = product.Id }, null)</h2>
+                </div>
+                <div class="panel-body">
+
+                    <a href="@Url.Action("Detail","Product",new { Id=product.Id})">
+                        @if (product.Picture1 != null)
+                        {
+                            var base64 = Convert.ToBase64String(product.Picture1);
+                            var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+                            <img src="@imgsrc"
+                                 alt="@product.ShortDescription" class="img-responsive" />
+                        }
+                    </a>
+
+                </div>
+                <div class="panel-footer">
+                    <a href="@Url.Action("Detail","Product",new { Id=product.Id})">
+                        <div class="caption">
+                            <h4>@product.ShortDescription</h4>
+                            <h4>Price: @product.Price $</h4>
+                        </div>
+                    </a>
+                    <button class="btn btn-lg" onclick="location.href='@Url.Action("AddToCart","Home",new { productId=product.Id})'">Add to cart</button>
+                </div>
+
+
+            </div>
+        </div>
+    }
+}
+@if (TempData["BuyMessage"] != null)
+{
+    <script>alert("@TempData["BuyMessage"]")</script>
+}

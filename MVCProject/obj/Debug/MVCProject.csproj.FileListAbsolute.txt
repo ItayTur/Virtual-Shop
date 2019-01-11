@@ -1,0 +1,59 @@
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.CoreCompileInputs.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\WebStoreShared.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\MVCProject.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\MVCProject.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\MVCProject.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\EntityFramework.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Razor.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\WebStoreShared.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\EntityFramework.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Razor.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\obj\Debug\MVCProject.csproj.CoreCompileInputs.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\obj\Debug\MVCProject.csprojAssemblyReference.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject\MVCProject\obj\Debug\MVCProject.csproj.CopyComplete

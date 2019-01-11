@@ -1,0 +1,31 @@
+﻿.pic-panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.img-responsive {
+    height: 250px;
+    width: 100%;
+}
+.panel-footer .btn:hover {
+    border: 1px solid #f4511e;
+    background-color: #fff !important;
+    color: #f4511e;
+}
+
+.small-img {
+    height: 100px;
+    width: 50%;
+}
+.logo{
+    height:25px;
+    width:25px;
+}
+.well .btn:hover {
+    border: 1px solid #f4511e;
+    background-color: #fff !important;
+    color: #f4511e;
+}
+
+a:hover,
+a.selected {
+    background: #efefef;
+}

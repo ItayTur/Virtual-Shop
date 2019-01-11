@@ -1,0 +1,73 @@
+﻿@model MVCProject.Models.LoginSignModel
+
+@{
+    ViewBag.Title = "Product Info";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="well">
+            <h3> @Model.Product.Title</h3>
+            <hr />
+            <h4>Price: @Model.Product.Price $</h4>
+            <h5> @Model.Product.ShortDescription</h5>
+            <h5> @Model.Product.Date</h5>
+            @if (Model.Product.State == 1)
+            {
+                 <button class="btn btn-lg" onclick="location.href='@Url.Action("AddToCart","Home",new { productId=Model.Product.Id})'">Add to cart</button>
+            }
+           
+        </div>
+        @if (Model.Product.Picture1 != null)
+        {
+            <col-md-1>
+                <div class="thumbnail">
+                    @{
+                        var base64 = Convert.ToBase64String(Model.Product.Picture1);
+                        var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+                    }
+                    <img src="@imgsrc"
+                         alt="@Model.Product.ShortDescription" class="img-responsive small-img" />
+                </div>
+            </col-md-1>
+        }
+        @if (Model.Product.Picture2 != null)
+        {
+            <col-md-1>
+                <div class="thumbnail">
+                    @{
+                        var base64 = Convert.ToBase64String(Model.Product.Picture2);
+                        var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+                    }
+                    <img src="@imgsrc"
+                         alt="@Model.Product.ShortDescription" class="img-responsive" />
+                </div>
+            </col-md-1>
+        }
+        @if (Model.Product.Picture3 != null)
+        {
+            <col-md-1>
+                <div class="thumbnail">
+                    @{
+                        var base64 = Convert.ToBase64String(Model.Product.Picture3);
+                        var imgsrc = string.Format("data:image/gif;base64,{0}", base64);
+                    }
+                    <img src="@imgsrc"
+                         alt="@Model.Product.ShortDescription" class="img-responsive" />
+                </div>
+            </col-md-1>
+        }
+        <h3>Description</h3>
+        <div>@Model.Product.LongDescription</div>
+    </div>
+    <div class="col-md-5">
+        <div class="well">
+            <h3>Seller information</h3>
+            <hr />
+            <h4>Seller name: @Model.SignInUser.FirstName @Model.SignInUser.LastName </h4>
+            <h4>Contact mail: @Model.SignInUser.Email</h4>
+        </div>
+
+    </div>
+</div>
+

@@ -1,0 +1,34 @@
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\WebStoreShared.dll.config
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\EntityFramework.dll
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\EntityFramework.xml
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\obj\Debug\WebStoreShared.csproj.CoreCompileInputs.cache
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\obj\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\obj\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\EFwithMVCProject\WebStore\WebStoreShared\obj\Debug\WebStoreShared.csprojResolveAssemblyReference.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\WebStoreShared.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\EntityFramework.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\EntityFramework.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.csproj.CoreCompileInputs.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\WebStoreShared.dll.config
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\EntityFramework.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\EntityFramework.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebStoreShared.csprojResolveAssemblyReference.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebStoreShared.csproj.CoreCompileInputs.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebStoreShared.dll
+C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebStoreShared.pdb
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.csprojAssemblyReference.cache
+C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.csproj.CopyComplete
