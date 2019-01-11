@@ -32,3 +32,17 @@ C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebSt
 C:\Users\Naum\Desktop\Home Work\MVCProject - Copy\WebStoreShared\obj\Debug\WebStoreShared.pdb
 C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.csprojAssemblyReference.cache
 C:\Users\Naum\Desktop\Home Work\MVCProject\WebStoreShared\obj\Debug\WebStoreShared.csproj.CopyComplete
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\WebStoreShared.dll.config
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\WebStoreShared.dll
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\WebStoreShared.pdb
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\EntityFramework.dll
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\EntityFramework.xml
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.csprojAssemblyReference.cache
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.csproj.CoreCompileInputs.cache
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.csproj.CopyComplete
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.dll
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.pdb
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.Resources.resources
+C:\Users\naum\Desktop\Home Work\MVC\Virtual-Shop\WebStoreShared\obj\Debug\WebStoreShared.csproj.GenerateResource.cache

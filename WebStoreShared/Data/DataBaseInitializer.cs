@@ -87,7 +87,7 @@ namespace WebStoreShared.Data
                 " they are black and they for sport!",
                 Date = new DateTime(2018, 1, 1),
                 Price = 200,
-                Picture1 = File.ReadAllBytes(@"/Images/shoe.jpg"),
+                Picture1 = File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory+ "\\Images\\shoe.jpg"),
                 State = 1
             };
             
@@ -102,10 +102,10 @@ namespace WebStoreShared.Data
                 "buy now and you won't regret it",
                 Date = new DateTime(2018, 2, 14),
                 Price = 500000,
-                Picture1 = File.ReadAllBytes(@"/Images/lambo.jpg"),
+                Picture1 = File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "/Images/lambo.jpg"),
                 State = 1
             };
-
+            
             Product product3 = new Product()
             {
                 UserOwnerNavigation = user3,
@@ -117,9 +117,9 @@ namespace WebStoreShared.Data
                 " that vision is now a reality. Say hello to the future.",
                 Date = new DateTime(2017, 12, 12),
                 Price = 4000,
-                Picture1 = File.ReadAllBytes(@"/Images/iphone1.jpg"),
-                Picture2 = File.ReadAllBytes(@"/Images/iphone2.jpg"),
-                Picture3 = File.ReadAllBytes(@"/Images/iphone3.jpg"),
+                Picture1 = File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "/Images/iphone1.jpg"),
+                Picture2 = File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "/Images/iphone2.jpg"),
+                Picture3 = File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "/Images/iphone3.jpg"),
                 State = 1
             };
 

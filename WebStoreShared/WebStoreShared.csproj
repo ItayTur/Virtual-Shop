@@ -39,6 +39,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -54,10 +55,43 @@
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuitarImage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ShowImage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ShoeImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GuitarImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IPhoneImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\iphone1.jpg" />
+    <Content Include="Images\iphone2.jpg" />
+    <Content Include="Images\iphone3.jpg" />
+    <Content Include="Images\lambo.jpg" />
+    <Content Include="Images\shoe.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
