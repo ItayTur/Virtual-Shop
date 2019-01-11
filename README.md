@@ -14,7 +14,7 @@ For the design I used bootstrap.
 
 ### Prerequisites
 
-Running the project needs: Visual-Studio Community 2017, SQL-Server.
+Visual-Studio Community 2017, SQL-Server.
 
 
 ### Installing
