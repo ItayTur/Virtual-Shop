@@ -32,7 +32,7 @@ Check the ConnectionString in the WebConfig in the MVCProject and app.Config in 
 
 ## Authors
 
-* **Itay Tur** - Full Stack
+* **Itay Tur** - *Full Stack* - [Itay Tur](https://github.com/ItayTur)
 
 
 ## Acknowledgments
