@@ -2,7 +2,7 @@
 # Virtual-Shop
 
 Sela study finale project for the mvc course. Virtual-Shop has alot of features here are some of them:
-The app has a customers and products managment system. It allwos users sign-up
+The app has a customers and products managment system. It allwos users to sign-up
 and sign-in using username and password. Any signed in user can buy and upload products for sell in the site. 
 Not-registered users can only buy products.
 Product data includes name, description, price and image.
@@ -18,7 +18,7 @@ Running the project needs: Visual-Studio Community 2017, SQL-Server.
 
 ### Installing
 
-Check the ConnectionString in the WebConfig and app.Config and update to the ConnectionString and database path you need.
+Check the ConnectionString in the WebConfig in the MVCProject and app.Config in the WebStoreShared and update to the ConnectionString and database path you want.
 
 
 ## Built With
